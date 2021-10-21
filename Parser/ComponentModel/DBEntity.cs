@@ -16,7 +16,7 @@ namespace Parser.ComponentModel
         {
             this.Id = id;
         }
-
+        //develop comment
         public string GetFields()
         {
             string fields = "";
