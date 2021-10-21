@@ -11,7 +11,7 @@ namespace Parser.ComponentModel
         public DBEntity()
         {
         }
-
+        //this is a test comment
         public DBEntity(long? id)
         {
             this.Id = id;
